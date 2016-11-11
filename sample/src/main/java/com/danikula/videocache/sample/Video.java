@@ -6,11 +6,11 @@ import java.io.File;
 
 public enum Video {
 
-    ORANGE_1(Config.ROOT + "orange1.mp4"),
-    ORANGE_2(Config.ROOT + "orange2.mp4"),
-    ORANGE_3(Config.ROOT + "orange3.mp4"),
-    ORANGE_4(Config.ROOT + "orange4.mp4"),
-    ORANGE_5(Config.ROOT + "orange5.mp4");
+    ORANGE_1("http://112.253.22.157/17/z/z/y/u/zzyuasjwufnqerzvyxgkuigrkcatxr/hc.yinyuetai.com/D046015255134077DDB3ACA0D7E68D45.flv"),
+    ORANGE_2("http://112.253.22.157/17/z/z/y/u/zzyuasjwufnqerzvyxgkuigrkcatxr/hc.yinyuetai.com/D046015255134077DDB3ACA0D7E68D45.flv"),
+    ORANGE_3("http://112.253.22.157/17/z/z/y/u/zzyuasjwufnqerzvyxgkuigrkcatxr/hc.yinyuetai.com/D046015255134077DDB3ACA0D7E68D45.flv"),
+    ORANGE_4("http://112.253.22.157/17/z/z/y/u/zzyuasjwufnqerzvyxgkuigrkcatxr/hc.yinyuetai.com/D046015255134077DDB3ACA0D7E68D45.flv"),
+    ORANGE_5("http://112.253.22.157/17/z/z/y/u/zzyuasjwufnqerzvyxgkuigrkcatxr/hc.yinyuetai.com/D046015255134077DDB3ACA0D7E68D45.flv");
 
     public final String url;
 
